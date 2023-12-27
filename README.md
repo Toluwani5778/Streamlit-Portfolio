@@ -25,3 +25,9 @@ In this tutorial, you’ll learn how to build a portfolio with:
 - Contact form
 
 I can’t wait to see the amazing portfolios you’ll create. Once you have, tag me on [my LinkedIn](https://www.linkedin.com/in/vicky-tck/?ref=blog.streamlit.io). I'd love to celebrate your accomplishments and get inspired by your work! 🎉💡
+
+## Acknowledgements
+
+This project utilizes code and files from the following sources:
+
+- Streamlit portfolio inspired by [Original Creator](https://github.com/vicky-playground)
