@@ -14,7 +14,7 @@ img_1 = Image.open("images/1.png")
 img_2 = Image.open("images/2.jpg")
 img_3 = Image.open("images/3.jpg")
 
-st.title("🫶 Hobbies")
+st.title("🎨 Hobbies")
 
 col1, col2, col3 = st.columns(3)
 
