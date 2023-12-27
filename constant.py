@@ -3,13 +3,24 @@ info = {
    "Name": "Toluwani",
    "Full_Name": "Toluwani Olukanni",
    "Intro": "An Electrical and Computer Engineering Student at Norwich University",
-   "About":"Hey there, I'm Vicky! I'm passionate about sharing my technical and data knowledge. My expertise covers a wide range of topics, from AI and Data Science to Blockchain, Cloud, and more. You can explore the wealth of free courses and resources I've created at cognitiveclass.ai.",
+   "About":"Greetings! I'm Toluwani Olukanni, and I'm passionate about delving into the realms of technology and data. With a background in Electrical and Computer Engineering, my expertise spans AI, Machine Learning, and Embedded Systems. Join me on this journey at the intersection of innovation and technology!",
    "Tableau":"https://public.tableau.com/app/profile/vickytc/viz/SunnybrookTeam/Overview",
    "Medium":"https://medium.com/@vicky-note/about",
    "City":"Philadelphia, Pennsylvania, United States of America",
-   "Photo":"""<a href=\"https://www.linkedin.com/in/toluwani-olukanni/\"><img src=\"https://sn-assets.s3.us.cloud-object-storage.appdomain.cloud/projects/profile.png" width=\"200\"   alt=\"Profile\" title=\"Profile\"></a>""",
+   "Photo":"""<a href=\"https://www.linkedin.com/in/toluwani-olukanni/\"><img id=\"profile-image\" src=\"https://github.com/Toluwani5778/Streamlit-Portfolio/blob/main/pro-b5m1Pe4E.jpeg?raw=true" width=\"200\"   alt=\"Profile\" title=\"Profile\"></a>""",
    "Email": "tolukann5778@gmail.com"
 }
+# Custom CSS to make the image circular
+css = """
+<style>
+    #profile-image {
+        border-radius: 50%;
+        overflow: hidden;
+        display: block;
+        margin: auto;
+    }
+</style>
+"""
 
 embed_rss= {
     'rss':"""<div style="overflow-y: scroll; height:500px; background-color:white;"> <div id="retainable-rss-embed" 
